@@ -1,4 +1,4 @@
-# ****Project-150****
+# ****Dino Game****
 ## **Project Overview**
 *This repository consists of the source codes, directions and Full documentation of ``Dino game`` developed with only C++.* 
 
